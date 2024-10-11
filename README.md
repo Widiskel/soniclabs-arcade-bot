@@ -37,7 +37,7 @@ cs75h2
 ```
 - Click "Sonic Arcade" And Get You Token By Clickig on `Get some $TOKEN >`
 - Connect Your Twitter > Follow Twitter > Complete Captcha > Get Token (REMEMBER TO CLAIM FAUCET WEEKLY)
-- After You Get Your Token, Play All Game at least Game Once
+- After You Get Your Token, Play All Game at Least Once
 - Now You're Ready For BOT
 - LFG
 
