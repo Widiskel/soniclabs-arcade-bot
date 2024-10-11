@@ -136,6 +136,7 @@ You need to join with my referal link to be able to run bot, you can replace you
 ```
 static AUTOJOINREF = true;
 ```
+Change your inviter will also change your refferal link , so please note that.
 
 If you got `error still waiting random number` for so long time try to play manually to triggrer rpc `reinitiate` after that you can use bot again
 
