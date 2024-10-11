@@ -5,7 +5,7 @@
   "description": "soniclabs-arcade testnet Bot",
   "main": "index.js",
   "scripts": {
-    "start": "cp -r accounts app/accounts && cp -r config app/config && node app/index.js",
+    "start": "cp -r accounts app/ && cp -r config app/ && node app/index.js",
     "dev": "node index.js",
     "test": "node test.js",
     "build": "rm -rf app && javascript-obfuscator --config build-config.json"
