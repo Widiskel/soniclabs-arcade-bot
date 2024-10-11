@@ -11,4 +11,4 @@ build-config.json
 /src
 app/accounts
 app/config
-accounts/proxy_list.js
+config/proxy_list.js

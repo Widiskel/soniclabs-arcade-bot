@@ -62,7 +62,7 @@ cs75h2
    ```
 3. run
    ```
-   cp accounts/accounts_tmp.js accounts/accounts.js
+   cp -r accounts/accounts_tmp.js accounts/accounts.js && cp -r config/proxy_list_tmp.js config/proxy_list.js
    ```
 5. configure your accounts
    ```
@@ -72,7 +72,11 @@ cs75h2
     ```
    nano config/config.js
     ```
-7. to start the app run
+7. configure the proxy (optional)
+    ```
+   nano config/proxy_list.js
+    ```
+8. to start the app run
     ```
     npm run start
     ```
@@ -94,10 +98,11 @@ cs75h2
 5. Navigate to `soniclabs-arcade-bot` directory. 
 6. Navigate to `accounts` folder and rename `accounts_tmp.js` to `accounts.js`.
 7. Now open `acccounts.js` and setup your accounts. 
-8. Now go back and Navigate to `config` and adjust the `config.js` as needed.
-9. Back to `soniclabs-arcade-bot` directory.
-10. copy `config` and `accounts` folder to `app` folder.
-11. To start the app open your `Command Prompt` or `Power Shell` again and run
+8. Now Back to `soniclabs-arcade-bot` directory and Navigate to `config` and adjust the `config.js` as needed.
+9. Rename `proxy_list_tmp.js` to `proxy_list.js`.
+10. Back to `soniclabs-arcade-bot` directory.
+11. copy `config` and `accounts` folder to `app` folder.
+12. To start the app open your `Command Prompt` or `Power Shell` again and run
     ```
     node app/index.js
     ```
