@@ -95,12 +95,9 @@ cs75h2
 6. Navigate to `accounts` folder and rename `accounts_tmp.js` to `accounts.js`.
 7. Now open `acccounts.js` and setup your accounts. 
 8. Now go back and Navigate to `config` and adjust the `config.js` as needed.
-9. Back to `soniclabs-arcade-bot` directory. 
-10.  To start the app open your `Command Prompt` or `Power Shell` again and run
-    ```
-    npm run start
-    ```
-    or
+9. Back to `soniclabs-arcade-bot` directory.
+10. copy `config` and `accounts` folder to `app` folder.
+11. To start the app open your `Command Prompt` or `Power Shell` again and run
     ```
     node app/index.js
     ```
