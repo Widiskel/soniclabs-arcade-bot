@@ -46,7 +46,7 @@ cs75h2
 
 - Multi Account 
 - Support PK
-- Auto Play Plinko Arcade Game Daily
+- Auto Play Arcade Game Daily
 
 
 ## Setup & Configure BOT
