@@ -46,6 +46,7 @@ cs75h2
 
 - Multi Account 
 - Support PK
+- Support Proxy
 - Auto Play Arcade Game Daily
 
 
