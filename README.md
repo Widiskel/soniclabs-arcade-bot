@@ -54,7 +54,7 @@ cs75h2
 ### Linux
 1. clone project repo
    ```
-   git clone https://github.com/Widiskel/soniclabs-arcade-bot.git` and cd to project dir `cd soniclabs-arcade-bot
+   git clone https://github.com/Widiskel/soniclabs-arcade-bot.git && cd soniclabs-arcade-bot
    ```
 2. run
    ```
