@@ -19,6 +19,11 @@ pause
 echo Copying accounts/accounts_tmp.js to accounts/accounts.js...
 copy /Y accounts\accounts_tmp.js accounts\accounts.js
 
+:: Open account.js 
+echo Opening accounts/accounts.js with notepad...
+echo Close after editing accounts.js
+notepad accounts/accounts.js
+
 :: Open config.js in the config folder using notepad
 echo Opening config/config.js with notepad...
 echo Close after editing config.js
