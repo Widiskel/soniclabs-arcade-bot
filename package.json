@@ -5,10 +5,10 @@
   "description": "soniclabs-arcade testnet Bot",
   "main": "index.js",
   "scripts": {
-    "start": "cp -r accounts app/ && cp -r config app/ && node app/index.js",
+    "start": "shx cp -r accounts app/ && shx cp -r config app/ && node app/index.js",
     "dev": "node index.js",
     "test": "node test.js",
-    "build": "rm -rf app && javascript-obfuscator --config build-config.json"
+    "build": "rimraf app && javascript-obfuscator --config build-config.json"
   },
   "keywords": [
     "soniclabs-arcade",
@@ -30,6 +30,8 @@
     "moment-timezone": "^0.5.45",
     "node-fetch": "^3.3.2",
     "twisters": "^1.1.0",
-    "winston": "^3.13.0"
+    "winston": "^3.13.0",
+    "rimraf": "^5.0.0",
+    "shx": "^0.3.3"
   }
 }
