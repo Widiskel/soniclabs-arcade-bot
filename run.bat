@@ -1,7 +1,7 @@
 @echo off
 :: Display banner
 echo +===========================+
-echo +   💀 SKEL DROP HUNT 💀   +
+echo +      SKEL DROP HUNT       +
 echo + https://t.me/skeldrophunt +
 echo +===========================+
 
@@ -42,12 +42,13 @@ if /I "%proxy_choice%"=="y" (
 )
 
 :: Copy config and accounts folders into app folder
-echo Copying config and accounts folders to app folder...
-xcopy /E /I config app\config
-xcopy /E /I accounts app\accounts
+:: echo Copying config and accounts folders to app folder...
+:: xcopy /E /I config app\config
+:: xcopy /E /I accounts app\accounts
 
 :: Run the app
-echo Running node app/index.js...
-node app\index.js
+echo Running bot
+:: node app\index.js
+npm run start
 
 pause
