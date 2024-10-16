@@ -25,12 +25,12 @@
   },
   "dependencies": {
     "bip39": "^3.1.0",
+    "blessed": "^0.1.81",
     "ethers": "^6.13.2",
     "https-proxy-agent": "^7.0.5",
     "moment-timezone": "^0.5.45",
     "node-fetch": "^3.3.2",
-    "twisters": "^1.1.0",
-    "winston": "^3.13.0",
-    "shx": "^0.3.3"
+    "shx": "^0.3.3",
+    "winston": "^3.13.0"
   }
 }

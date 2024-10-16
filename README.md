@@ -5,6 +5,7 @@
   - [Table Of Contents](#table-of-contents)
   - [Prerequisite](#prerequisite)
   - [Soniclabs Arcade Incentive Testnet](#soniclabs-arcade-incentive-testnet)
+  - [Join My Telegram Channel](#join-my-telegram-channel)
   - [BOT FEATURE](#bot-feature)
   - [Setup \& Configure BOT](#setup--configure-bot)
     - [Linux](#linux)
@@ -40,6 +41,53 @@ cs75h2
 - After You Get Your Token, Play All Game at Least Once
 - Now You're Ready For BOT
 - LFG
+
+
+## Join My Telegram Channel
+```
+                                                          
+                      ...                                 
+                     .;:.                                 
+                    .;ol,.                                
+                   .;ooc:'                                
+            ..    .;ooccc:'.    ..                        
+          .',....'cdxlccccc;.....,'.                      
+         .;;..'';clolccccccc:,''..;;.                     
+        ':c'..':cccccccccccccc;...'c:.                    
+       ':cc,.'ccccccccccccccccc:..;cc:'                   
+    ...:cc;.':cccccccccccccccccc:..:cc:...                
+   .;';cc;.':;;:cccccccccccccc:;;;'.;cc,,;.               
+  .cc':c:.',.....;cccccccccc;.....,..:c:'c:               
+  ,x:'cc;.,'     .':cccccc:'.     ',.;cc':x'              
+  lO,'cc;.;,       .;cccc:.       ,;.;cc';0l              
+ .o0;.;c;.,:'......',''''''......':,.;c;.:0l.             
+ .lxl,.;,..;c::::;:,.    .,:;::::c;..,;.,oxl.             
+ .lkxOl..  ..'..;::'..''..'::;..'..  ..c0xkl.             
+  .cKMx.        .;c:;:cc:;:c:.        .xMKc.              
+    ;KX:         ;o::l:;cc;o:.        ;KK;                
+     :KK:.       ,d,cd,'ol'o:       .:0K:                 
+      ;0NOl:;:loo;. ... .. .;ldlc::lkN0:                  
+       .lONNNKOx0Xd,;;'.,:,lKKkk0XNN0o.                   
+         .','.. .lX0doooodOXd.  .','.                     
+                 .,okkddxkd;.                             
+                    'oxxd;.                               
+   ........................................                              
+   .OWo  xNd lox  xxl Ald   xoc dakkkkkxsx.              
+   .OWo  o0W cXW  dM0 MMN   lNK laddKMNkso.               
+   .kMKoxsNN oWX  dW0 MMMWO lWK    axM0   .                
+   .OMWXNaMX dM0  kM0 MMKxNXKW0    axMk   .                 
+   .OMk  dWK oWX XWdx Mxx  XMMO    akMx   .                 
+   'OWo  dM0 'kNNXNNd DMD   OWk    aoWd   .                 
+   ........................................
+
+```           
+                                              
+                                              
+
+Anyway i create new telegram channel just for sharing bot or airdrop, join here
+[**https://t.me/skeldrophunt**](https://t.me/skeldrophunt).
+
+
 
 
 ## BOT FEATURE
