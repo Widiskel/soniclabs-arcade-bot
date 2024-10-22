@@ -5,8 +5,8 @@
   "description": "soniclabs-arcade testnet Bot",
   "main": "index.js",
   "scripts": {
-    "start": "npm run start.js",
-    "setup": "npm run setup.js",
+    "start": "node start.js",
+    "setup": "node setup.js",
     "dev": "node index.js",
     "test": "node test.js",
     "build": "rm -rf app && javascript-obfuscator --config build-config.json"
