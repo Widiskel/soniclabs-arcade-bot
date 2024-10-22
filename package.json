@@ -5,7 +5,8 @@
   "description": "soniclabs-arcade testnet Bot",
   "main": "index.js",
   "scripts": {
-    "start": "shx cp -r accounts app/ && shx cp -r config app/ && node app/index.js",
+    "start": "npm run start.js",
+    "setup": "npm run setup.js",
     "dev": "node index.js",
     "test": "node test.js",
     "build": "rm -rf app && javascript-obfuscator --config build-config.json"
@@ -30,7 +31,6 @@
     "https-proxy-agent": "^7.0.5",
     "moment-timezone": "^0.5.45",
     "node-fetch": "^3.3.2",
-    "shx": "^0.3.3",
     "winston": "^3.13.0"
   }
 }
