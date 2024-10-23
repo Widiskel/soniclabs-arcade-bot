@@ -93,7 +93,7 @@ Anyway i create new telegram channel just for sharing bot or airdrop, join here
 ## BOT FEATURE
 
 - Multi Account 
-- Support PK
+- Support PK and Seed
 - Support Proxy
 - Auto Play Arcade Game Daily
 
