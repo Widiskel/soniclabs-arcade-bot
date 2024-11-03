@@ -1,5 +1,5 @@
 export class Config {
   static AUTOJOINREF = false;
   static DISPLAYPOINT = false;
-  static DISPLAY = "TWIST";
+  static DISPLAY = "BLESS";
 }

@@ -12,3 +12,4 @@ build-config.json
 app/accounts
 app/config
 config/proxy_list.js
+database.db
